@@ -8,7 +8,9 @@ public class PizzarianapoliApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(PizzarianapoliApplication.class, args);
+
+          System.out.println("PizzarianapoliApliccation started port 8080");
     }
 
-    System.out.prinln("PizzarianapoliApliccation started port 8080")
+      
 }
