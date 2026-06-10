@@ -7,7 +7,7 @@ import MenuFuncionario from "../MenuFuncionario/MenuFuncionario";
 
             <div className="container">
                 <MenuFuncionario/>
-                #ListarProduto
+                #Home
 
             </div>
         )
