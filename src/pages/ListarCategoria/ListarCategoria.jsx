@@ -9,7 +9,7 @@ const ListarCategoria = () => {
         <div className="container">
             <MenuFuncionario />
 
-            <p>Lista de categorias dos Produtos</p>
+            <p>Lista de categorias dos Produtos.</p>
 
         </div>
     )
